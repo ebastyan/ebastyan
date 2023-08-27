@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebastyan - Sebastian
-- 👀 I’m interested in ... OSINT
+- 👀 I’m interested in ... OSINT, HUMINT, GEOINT, Gathering Intell in general :) 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... in DM or by email ebastian
